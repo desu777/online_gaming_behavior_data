@@ -6,7 +6,6 @@ This project contains a set of SQL queries to analyze player behavior in online 
 
 - `sql/`: Contains SQL scripts for creating tables, loading data, and various queries.
 - `data/`: Contains the sample data used in the project.
-- `presentation/`: Contains the presentation summarizing the findings.
 
 ## Getting Started
 
